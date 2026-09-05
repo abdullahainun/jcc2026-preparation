@@ -1,0 +1,11 @@
+# Keluaran build, selalu bisa dibuat ulang lewat ./build-pdf.sh
+*.html
+.print-*.md
+
+# Berkas yang TIDAK BOLEH sampai ke siswa
+lab0*/_preview-*.png
+lab0*/_kunci-jawaban.txt
+
+# Python
+__pycache__/
+*.pyc
