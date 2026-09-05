@@ -1,0 +1,42 @@
+==========================================================================
+  BARANG BUKTI DIGITAL - LAB 03: THE SECRET DECODER
+  Tim CTF SMK Maskumambang 1 | JCC 2026
+  Ditemukan di: /var/log/.cache/pesan.txt pada server sekolah
+  Waktu penemuan: Kamis, 26 Februari 2026, 08:15 WIB
+==========================================================================
+
+--------------------------------------------------------------------------
+BARANG BUKTI #1
+Ditemukan di dalam komentar berkas index.php
+--------------------------------------------------------------------------
+SGFsbyB0aW0gZm9yZW5zaWsuIEthbGlhbiB0ZXJsYW1iYXQgMyBqYW0uIFNlbXVhIGJlcmthcyBuaWxhaSBzdWRhaCBzYXlhIHNhbGluIGtlIGx1YXIuIFBldHVuanVrIGJlcmlrdXRueWEgc2F5YSB0aXRpcGthbiBkaSBiYXJhbmcgYnVrdGkga2VkdWEsIGRhbiBrdW5jaSBtYXN1ayBzYXlhIHRpbmdnYWxrYW4gc2ViYWdhaSBzaWRpayBqYXJpIGRpIGJhcmFuZyBidWt0aSBrZXRpZ2Eu
+
+
+--------------------------------------------------------------------------
+BARANG BUKTI #2
+Ditemukan di dalam berkas .hidden_note pada direktori /tmp
+--------------------------------------------------------------------------
+56 31 42 51 65 31 6b 30 51 7a 45 31 58 31 45 7a 57 6a 46 66 57 54 52 44
+4d 54 56 66 52 7a 4e 46 54 7a 42 42 56 46 67 30 52 58 30 3d
+
+
+--------------------------------------------------------------------------
+BARANG BUKTI #3
+Ditemukan di dalam berkas backup-akun.csv
+--------------------------------------------------------------------------
+akun,algoritma,nilai_hash
+admin_lab,MD5,0571749e2ac330a7455809c6b0e7af90
+operator,SHA-1,b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
+kepala_lab,MD5,5a49035089ecef61e5c687d8bf294121
+
+
+--------------------------------------------------------------------------
+BARANG BUKTI #4 (BONUS)
+Ditemukan tertulis di papan tulis Lab Multimedia
+--------------------------------------------------------------------------
+XJQFRFY PFQNFS QZQZX ZONFS XFSIN
+
+==========================================================================
+Format flag: JCC{...}
+Selamat bekerja, analis.
+==========================================================================
